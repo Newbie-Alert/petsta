@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "지위픽 독 소고기 캔",
+      "RatePrice": "7,700원",
+      "price": "6,200원",
+      "discountRate": "19%",
+      "image": "/assets/img/image001.jpeg",
+      "detail": "/assets/img/detail1.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "연어&고구마 레시피 스몰브리드",
+      "RatePrice": "54,000원",
+      "price": "26,900원",
+      "discountRate": "50%",
+      "image": "/assets/img/image002.jpeg",
+      "detail": "/assets/img/detail2.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "펫홀릭 교감벨",
+      "RatePrice": "10,000원",
+      "price": "5,850원",
+      "discountRate": "42%",
+      "image": "/assets/img/image003.jpeg",
+      "detail": "/assets/img/detail3.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "스테이 마약방석",
+      "RatePrice": "100,000원",
+      "price": "49,000원",
+      "discountRate": "51%",
+      "image": "/assets/img/image004.webp",
+      "detail": "/assets/img/detail4.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "레이백쿠션",
+      "RatePrice": "34,900",
+      "price": "16,470원",
+      "discountRate": "53%",
+      "image": "/assets/img/image005.jpeg",
+      "detail": "/assets/img/detail5.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "피버 저자극 원터치 브러쉬",
+      "RatePrice": "10,900원",
+      "price": "6,900원",
+      "discountRate": "37%",
+      "image": "/assets/img/image006.png",
+      "detail": "/assets/img/detail6.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "슈퍼마켓 마쉬멜로우 인형",
+      "RatePrice": "38,000원",
+      "price": "16,990원",
+      "discountRate": "55%",
+      "image": "/assets/img/image007.png",
+      "detail": "/assets/img/detail7.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "슈퍼마켓 치즈볼 인형",
+      "RatePrice": "38,200",
+      "price": "18,900원",
+      "discountRate": "51%",
+      "image": "/assets/img/image008.png",
+      "detail": "/assets/img/detail8.jpeg"
+    }
+  ]
+}
